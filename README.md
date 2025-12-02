@@ -26,7 +26,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,github,ai,python,flask,react,androidstudio,flutter,astro,tailwindcss,kotlin)]()
 <br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,php,postgres,sqlite,selenium,azure,gcp,docker,firebase,wordpress,bitbucket,bootstrap,bots)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,php,postgres,sqlite,selenium,ts,azure,gcp,docker,firebase,wordpress,bitbucket,bootstrap,bots)]()
 
 <br><br>
 
