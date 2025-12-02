@@ -23,7 +23,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Panxito24">
+<a href="https://github.com/Ormazabaldev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Panxito24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 </a>
