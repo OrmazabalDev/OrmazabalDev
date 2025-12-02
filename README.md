@@ -57,11 +57,11 @@
   </a>
 
   <a href="https://www.linkedin.com/in/diego-ormazabal-m/">
-    <img src="https://img.shields.io/badge/-diego%20ormazabal-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:ormazabal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-diego.ormazabal-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Correo-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 
