@@ -15,7 +15,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,github,ai,,python,flask,react,androidstudio,flutter,astro,tailwindcss,kotlin,azure,gcp,docker,firebase,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,github,ai,,python,flask,react,androidstudio,flutter,astro,tailwindcss,kotlin,azure,gcp,docker,firebase,wordpress)]()
 
 <br><br>
 
@@ -24,7 +24,7 @@
 
 <p align="center">
 <a href="https://github.com/Ormazabaldev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ormazabaldev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ormazabaldev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 </a>
 </p>
