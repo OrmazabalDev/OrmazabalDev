@@ -52,11 +52,11 @@
 ### 🤝🏻 &nbsp;Conéctate conmigo
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/-proximamente-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>
+  <a href="https://ormazabaldev.github.io/devportfolio-master/">
+    <img src="https://img.shields.io/badge/-Ormazabaldev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/in/diego-ormazabal">
+  <a href="https://www.linkedin.com/in/diego-ormazabal-m/">
     <img src="https://img.shields.io/badge/-diego%20ormazabal-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
 
