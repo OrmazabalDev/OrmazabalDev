@@ -16,7 +16,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,github,ai)]()
-[![My Skills](https://skillicons.dev/icons?i=js,python,flask,react,androidstudio,flutter,astro,tailwindcss,kotlin,azure,gcp,docker,firebase,wordpress)]()
+[![My Skills](https://skillicons.dev/icons?i=python,flask,react,androidstudio,flutter,astro,tailwindcss,kotlin,azure,gcp,docker,firebase,wordpress)]()
 <br><br>
 
 
