@@ -24,16 +24,15 @@
 
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,github,ai,python,flask,react,androidstudio,flutter,astro)]()
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss,kotlin,azure,gcp,docker,firebase,wordpress)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,git,github,ai)]()
+<br>
+[![My Skills](https://skillicons.dev/icons?i=python,flask,react,androidstudio,flutter,astro,tailwindcss)]()
+<br>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,azure,gcp,docker,firebase,wordpress)]()
 
 <br><br>
 
-<img 
-  alt="Night Coding" 
-  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" 
-  align="right"
-/>
+
 
 ---
 
